@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TeenPattiNew</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+
+    <string-array name="settings">
+        <item>SETTINGS</item>
+        <item>Sound</item>
+        <item>Music</item>
+        <item>Daily Bonus</item>
+        <item>Vibrate</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tbl_sc_main">TblScMainActivity</string>
+    <string name="title_activity_exit__dialog">Exit_Dialog</string>
+    <string name="title_activity_user_panel">UserPanelActivity</string>
+    <string name="title_activity_login_second">LoginSecond</string>
+    <string name="title_activity_data_retrieve">DataRetrieve</string>
+    <string name="title_activity_public_table">PublicTable</string>
+    <string name="title_activity_luxury_table">LuxuryTable</string>
+
+</resources>

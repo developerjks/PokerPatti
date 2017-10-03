@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slideleft.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\anim\\slideleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slideup.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\anim\\slideup.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blinking_animation.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\anim\\blinking_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slideright.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\anim\\slideright.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slidedown.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\anim\\slidedown.xml"
+    }
+]

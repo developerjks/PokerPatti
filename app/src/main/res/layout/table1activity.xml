@@ -1,0 +1,63 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/table1layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.teenpattinew.Table1Activity" >
+
+        <TextView
+            android:id="@+id/countdown_timer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/holo_green_light"
+            android:text="test"
+            android:onClick="test"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/drawer_linear_layout"
+        android:layout_width="260dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/table_title_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TABLES"
+            android:textColor="@android:color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ListView
+            android:id="@+id/drawerList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_red_light" >
+        </ListView>
+        
+    </LinearLayout>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tbl_sc_main.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\tbl_sc_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_panel.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\user_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\public_table.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\public_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\exit__dialog.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\exit__dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_second.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\login_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\data_retrieve.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\data_retrieve.xml"
+    },
+    {
+        "merged": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\luxury_table.xml",
+        "source": "C:\\Users\\KetanPandey\\AndroidStudioProjects\\TeenPattiNew\\app\\src\\main\\res\\menu\\luxury_table.xml"
+    }
+]

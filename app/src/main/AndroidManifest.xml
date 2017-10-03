@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.teenpattinew"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pokerpatti_iconlauncher"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Table1Activity"
+            android:label="@string/title_activity_tbl_sc_main"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Exit_Dialog"
+            android:label="@string/title_activity_exit__dialog" >
+        </activity>
+        <activity
+            android:name=".UserPanelActivity"
+            android:label="@string/title_activity_user_panel"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".LoginSecond"
+            android:label="@string/title_activity_login_second"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".DataRetrieve"
+            android:label="@string/title_activity_data_retrieve"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".PublicTable"
+            android:label="@string/title_activity_public_table"
+            android:screenOrientation="sensorLandscape"  >
+        </activity>
+        <activity
+            android:name=".LuxuryTable"
+            android:label="@string/title_activity_luxury_table"
+            android:screenOrientation="sensorLandscape"  >
+        </activity>
+    </application>
+
+</manifest>

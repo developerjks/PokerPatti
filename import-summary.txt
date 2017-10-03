@@ -1,0 +1,129 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:23.4.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* dialog1.PNG => dialog1.png
+* dialog2.PNG => dialog2.png
+* dialog3.PNG => dialog3.png
+* dialog7.PNG => dialog7.png
+* dialog8.PNG => dialog8.png
+* dialog9.PNG => dialog9.png
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* icon3.PNG => icon3.png
+* img1.PNG => img1.png
+* img2.PNG => img2.png
+* img3.PNG => img3.png
+* nbar.PNG => nbar.png
+* patti10.PNG => patti10.png
+* patti11.PNG => patti11.png
+* patti12.PNG => patti12.png
+* patti13.PNG => patti13.png
+* patti14.PNG => patti14.png
+* patti15.PNG => patti15.png
+* patti16.PNG => patti16.png
+* patti17.PNG => patti17.png
+* patti18.PNG => patti18.png
+* patti19.PNG => patti19.png
+* patti191.PNG => patti191.png
+* patti192.PNG => patti192.png
+* patti193.PNG => patti193.png
+* patti20.PNG => patti20.png
+* patti21.PNG => patti21.png
+* patti22.PNG => patti22.png
+* patti23.PNG => patti23.png
+* patti24.PNG => patti24.png
+* patti25.PNG => patti25.png
+* patti26.PNG => patti26.png
+* patti27.PNG => patti27.png
+* patti28.PNG => patti28.png
+* patti29.PNG => patti29.png
+* patti291.PNG => patti291.png
+* patti292.PNG => patti292.png
+* patti293.PNG => patti293.png
+* patti30.PNG => patti30.png
+* patti31.PNG => patti31.png
+* patti32.PNG => patti32.png
+* patti33.PNG => patti33.png
+* patti34.PNG => patti34.png
+* patti35.PNG => patti35.png
+* patti36.PNG => patti36.png
+* patti37.PNG => patti37.png
+* patti38.PNG => patti38.png
+* patti39.PNG => patti39.png
+* patti391.PNG => patti391.png
+* patti392.PNG => patti392.png
+* patti393.PNG => patti393.png
+* patti40.PNG => patti40.png
+* patti41.PNG => patti41.png
+* patti42.PNG => patti42.png
+* patti43.PNG => patti43.png
+* patti44.PNG => patti44.png
+* patti45.PNG => patti45.png
+* patti46.PNG => patti46.png
+* patti47.PNG => patti47.png
+* patti48.PNG => patti48.png
+* patti49.PNG => patti49.png
+* patti491.PNG => patti491.png
+* patti492.PNG => patti492.png
+* patti493.PNG => patti493.png
+* pp.PNG => pp.png
+* qq.PNG => qq.png
+* save.PNG => save.png
+* teenpatti.PNG => teenpatti.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

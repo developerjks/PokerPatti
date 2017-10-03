@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/data_retrieve_layout"
+    tools:context="com.example.teenpattinew.DataRetrieve" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/progressStatus_layout"
+        android:orientation="vertical" >
+        
+        <RelativeLayout 
+             android:layout_width="match_parent"
+       		 android:layout_height="match_parent"
+        	 android:id="@+id/progressStatusImage_layout"
+        	 android:orientation="horizontal">
+            
+               <ImageView 
+            	android:layout_width="match_parent"
+       	 		android:layout_height="match_parent"
+        		android:id="@+id/progressStatus_imageview" />
+               
+               <ImageView 
+            	android:layout_width="match_parent"
+       	 		android:layout_height="match_parent"
+        		android:id="@+id/progressStatus_imageview1" />
+            
+        </RelativeLayout>
+     
+        
+     </LinearLayout>
+          
+        <LinearLayout 
+             android:layout_width="match_parent"
+       		 android:layout_height="match_parent"
+        	 android:id="@+id/progressStatusText_layout"
+        	 android:orientation="horizontal">
+            
+               <TextView 
+            	android:layout_width="match_parent"
+       	 		android:layout_height="match_parent"
+        		android:id="@+id/progressStatus_textview" />
+            
+        </LinearLayout>
+        
+     
+
+</RelativeLayout>

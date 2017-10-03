@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c0392b"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/vacant_tables"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:padding="10dp"
+        android:text="HITRES"
+        android:textColor="#252525"
+        android:textSize="20sp" />
+
+</LinearLayout>

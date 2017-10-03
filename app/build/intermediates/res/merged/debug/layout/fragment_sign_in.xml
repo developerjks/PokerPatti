@@ -1,0 +1,198 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/signInLayout"
+    android:orientation="vertical"
+    tools:context="com.example.teenpattinew.SignIn" >
+
+    <!-- TODO: Update blank fragment layout -->
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/firstvertical"
+        android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/firstverticalfirsthorizontal"
+        android:orientation="vertical"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/firstverticalsecondhorizontal"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/fvshfv"
+                android:orientation="vertical"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/fvshsv"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                     >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/fvshsv1"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/fvshsv11"
+                            >
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:text="Username"
+                               android:textAllCaps="true"
+                                android:gravity="center"
+                                android:textSize="20sp"
+                                android:textColor="@android:color/white"
+                                 android:textStyle="bold"
+                                android:shadowColor="@android:color/holo_red_dark"
+                                  android:shadowDx="-2"
+                                android:shadowDy="-2"
+                                android:shadowRadius="1" />
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/fvshsv12"
+                            android:gravity="center"
+                            >
+
+                            <EditText
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/username"
+                                android:hint="Username"
+                                android:textColorHint="@android:color/black"
+                                android:background="@drawable/editbox"
+                                android:textColor="@android:color/black"
+                                android:gravity="center"/>
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/fvshsv2"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/fvshsv21"
+                            android:gravity="center">
+
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:text="Password"
+                                android:textAllCaps="true"
+                                android:gravity="center"
+                                android:textSize="20sp"
+                                android:textColor="@android:color/white"
+                                 android:textStyle="bold"
+                                android:shadowColor="@android:color/holo_red_dark"
+                                  android:shadowDx="-2"
+                                android:shadowDy="-2"
+                                android:shadowRadius="1"/>
+
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/fvshsv22"
+                            android:gravity="center">
+
+                            <EditText
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/password"
+                                android:background="@drawable/editbox"
+                                android:gravity="center"
+                                android:hint="Password"
+                                android:textColorHint="@android:color/black"
+                                android:textColor="@android:color/black"
+                             />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/fvshsv3"
+                        android:gravity="center"
+                        >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/signin"
+                            android:scaleType="fitXY"/>
+                    </LinearLayout>
+
+            
+
+
+                </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/fvshtv"
+                android:orientation="vertical"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/firstverticalthirdhorizontal"
+            android:orientation="vertical"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/secondvertical"
+        android:orientation="horizontal">
+        
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/go_to_user_panel"
+            android:clickable="true"
+            android:text="Go To UserPanel"
+            android:textSize="20sp"
+           />
+
+        </LinearLayout>
+
+</LinearLayout>
